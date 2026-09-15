@@ -6,10 +6,10 @@ Since I am currently applying for jobs and haven't spent much time in the conven
 I am revisiting and polishing them for presentation, then publishing each project here as hopefully a single release commit per project.
 See the table below for orientation:
 
-| Project | Description | Used Technologies | Status |
-|---|---|---|---|
-| [Fourier Garden](https://github.com/arch-Ada/fourier-garden) | Interactive Fourier/signal explorer | Haskell | Published |
-| git-tape | Structured Git history generator | Python, Git | Coming soon |
-| Inverse Lab | Computational imaging experiments | Python | Coming soon |
-| Rayleigh | neural variational Schrödinger solver | C++ | Coming soon |
-| Three Color | Planar graph-colouring puzzle | Java | Coming soon |
+| Project | Description | Technologies | Origin/Context | Status |
+|---|---|---|---|---|
+| [Fourier Garden](https://github.com/arch-Ada/fourier-garden) | Interactive Fourier/signal explorer | Haskell | Physics background, a love of Haskell, and studying for the German amateur radio Class A licence. | Published |
+| git-tape | Structured Git history generator | Python, Git | | Coming soon |
+| Inverse Lab | Computational imaging experiments | Python | | Coming soon |
+| Rayleigh | neural variational Schrödinger solver | C++ | | Coming soon |
+| Three Color | Planar graph-colouring puzzle | Java | | Coming soon |

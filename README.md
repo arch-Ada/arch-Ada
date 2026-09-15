@@ -9,4 +9,5 @@ Since I am currently applying for jobs and haven't spent much time in the conven
 | [Fourier Garden](https://github.com/arch-Ada/fourier-garden) | Interactive Fourier/signal explorer | Haskell | Published |
 | git-tape | Structured Git history generator | Python, Git | Coming soon |
 | Inverse Lab | Computational imaging experiments | Python | Coming soon |
+| Rayleigh | neural variational Schrödinger solver | C++ | Coming soon |
 | Three Color | Planar graph-colouring puzzle | Java | Coming soon |

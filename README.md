@@ -8,8 +8,8 @@ See the table below for orientation:
 
 | Project | Description | Technologies | Origin/Context | Status |
 |---|---|---|---|---|
-| [Fourier Garden](https://github.com/arch-Ada/fourier-garden) | Interactive Fourier/signal explorer | Haskell | Physics background, a love of Haskell, and studying for the German amateur radio Class A licence. | Published |
+| [Fourier Garden](https://github.com/arch-Ada/fourier-garden) | Interactive Fourier/signal explorer | Haskell, Brick, Vty, Cabal, QuickCheck | Physics background, a love of Haskell, and studying for the German amateur radio Class A licence. | Published |
 | git-tape | Structured Git history generator | Python, Git | | Coming soon |
 | Inverse Lab | Computational imaging experiments | Python | | Coming soon |
-| Rayleigh | neural variational Schrödinger solver | C++ | | Coming soon |
+| [Rayleigh](https://github.com/arch-Ada/rayleigh) | Neural variational Schrödinger solver | C++17, CMake/CTest, clang-format, GitHub Actions, Python, NumPy, Matplotlib | Revisiting a long-standing interest in neural networks and machine learning, together with earlier university coursework and Schrödinger-related numerical work, as a way to refresh some of that knowledge. | Published |
 | Three Color | Planar graph-colouring puzzle | Java | | Coming soon |

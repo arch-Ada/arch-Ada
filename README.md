@@ -9,7 +9,9 @@ See the table below for orientation:
 | Project | Description | Technologies | Origin/Context | Status |
 |---|---|---|---|---|
 | [Fourier Garden](https://github.com/arch-Ada/fourier-garden) | Interactive Fourier/signal explorer | Haskell, Brick/Vty, Cabal, QuickCheck | Physics background, a love of Haskell, and studying for the German amateur radio Class A licence. | Published |
-| git-tape | Structured Git history generator | Python, Git | | Coming soon |
+| [git-tape](https://github.com/arch-Ada/git-tape) | Structured Git history generator (pixel-art) | Git, Python, pytest/Ruff | An experiment in the limitations of GitHub activity as a developer metric. Contribution graphs are highly gameable and say little about the quality or significance of the work behind them. git-tape makes that arbitrariness visible by treating commit history as a programmable canvas. | Published |
 | Inverse Lab | Computational imaging experiments | Python | | Coming soon |
 | [Rayleigh](https://github.com/arch-Ada/rayleigh) | Neural variational Schrödinger solver | C++17, CMake/CTest, clang-format, GitHub Actions, Python/NumPy/Matplotlib | Revisiting a long-standing interest in neural networks and machine learning, together with earlier university coursework and Schrödinger-related numerical work, as a way to refresh some of that knowledge. | Published |
 | Three Color | Planar graph-colouring puzzle | Java | | Coming soon |
+
+I am always happy to talk through the ideas, implementation details, and tradeoffs behind these projects.

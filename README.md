@@ -2,8 +2,8 @@
 
 I am a software developer with some background in computer science, mathematics and physics, and a lot of curiosity.
 
-Since I am currently applying for jobs and haven't spent much time in the conventional job market, I am putting together a selection of personal projects that I have worked on over the years.
-I am revisiting and polishing them for presentation, then publishing each project here as hopefully a single release commit per project.
+Since I am currently applying for jobs and haven't spent much time in the conventional job market, I have put together a selection of personal projects that I have worked on over the years.
+I revisited and polished them for presentation, then published each project here as a clean Initial release snapshot. I will continue working on them here and there.
 See the table below for orientation:
 
 | Project | Description | Technologies | Origin/Context | Status |
